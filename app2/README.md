@@ -1,2 +1,2 @@
 # app2
-teste monorepo merge.
+Teste monorepo merge.
