@@ -1,0 +1,2 @@
+app1 git@github.com:oyri/app1.git
+app2 git@github.com:oyri/app2.git
