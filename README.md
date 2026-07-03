@@ -7,8 +7,9 @@ Teste monorepo merge.
 Installert git-filter-repo:
 ```brew install git-filter-repo```
 
-Laga tomt monorepo med minst 1 initiell commit og clona ned dette lokalt. 
-Ingen opne PR (dependabot kan vera opne, vil bli oppretta på ny seinare att) eller kode på andre branches.
+Laga nytt, tomt monorepo med minst 1 initiell commit og clona ned dette lokalt. 
+
+Ingen opne PR (dependabot kan vera opne, vil bli oppretta på ny seinare att) eller kode på andre branches på repos som skal flyttas inn i nytt monorepo.
 Berre main-branch vil bli flytta over.
 
 #### Køyring
