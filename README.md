@@ -7,3 +7,4 @@ Gå til mappa scripts og flytt alle filene på utsida av monorepoet og køyr sli
 ```
 ./../import-repos.sh ../repos.txt
 ```
+Denne jobben er utført på dette repoet, så sjå på historikken på denne som døme.
