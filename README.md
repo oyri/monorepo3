@@ -1,2 +1,2 @@
 # monorepo3
-teste monorepo merge
+Teste monorepo merge.
